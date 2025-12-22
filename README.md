@@ -34,8 +34,7 @@ Full-stack developer at **PSSSF HQ**, focused on building **reliable, data-inten
 ---
 
 ### 🎧 Currently Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317m2vyqcjzo44xkxyf4q73sa2iu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=light&bar_color=5e895d&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317m2vyqcjzo44xkxyf4q73sa2iu&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317m2vyqcjzo44xkxyf4q73sa2iu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&mode=dark&bar_color=5e895d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317m2vyqcjzo44xkxyf4q73sa2iu&redirect=true)
 ---
 
 ### 🤝 Connect With Me
