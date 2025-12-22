@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Normankita/Normankita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...## Hey there, Shubham this side!
+## Hey there, Norman here!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -53,11 +45,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/kitanorman1/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-kitanorman1-red"></a>
 <a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
 </p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
