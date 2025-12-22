@@ -15,6 +15,6 @@ jobs:
           spotify_client_secret: ${{ secrets.f4a9a3435a934a18880808be4417ee45 }}
           spotify_refresh_token: ${{ secrets.AQAWxJVvKq2yy9U3FKj2HBOdoJXH7pUNkkHqTLt4Klcjr_UkHrylyXB6TNgul2CZxOkwC3CGblEDrAJnip-_R63TqNs4an-JjGYin5aZU0WwK3Ws-VKDUNAxKyojRFsKEEI }}
           theme: default
-          cover_image: false
+          cover_image: true
           show_offline: true
           background_color: 0d1117
