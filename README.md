@@ -34,7 +34,7 @@ Full-stack developer at **PSSSF HQ**, focused on building **reliable, data-inten
 ---
 
 ### 🎧 Currently Playing on Spotify
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=317m2vyqcjzo44xkxyf4q73sa2iu&cover_image=true&theme=default&show_offline=false&background_color=0d1117)
 
 ---
 
