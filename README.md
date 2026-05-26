@@ -50,10 +50,10 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Normankita&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e6edf3&hide_border=true" alt="GitHub Stats" />
+        <img src="https://norman-github-readme-stats.vercel.app/api?username=Normankita&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e6edf3&hide_border=true" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normankita&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e6edf3&hide_border=true&layout=compact" alt="Top Languages" />
+        <img src="https://norman-github-readme-stats.vercel.app/api/top-langs/?username=Normankita&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e6edf3&hide_border=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
